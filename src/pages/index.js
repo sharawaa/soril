@@ -16,9 +16,9 @@ export default function Home() {
       <div className="colorSection flex flex-col items-center">
         <ColorSection />
       </div>
-      {/* <div className="h-[400px]">
+      <div className="h-[400px]">
         <Statistics />
-      </div> */}
+      </div>
       <div className=" mt-[60px]">
         <Three />
       </div>
