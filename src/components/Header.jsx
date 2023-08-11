@@ -3,13 +3,13 @@ export default function Header() {
     <div className="w-[1170px] h-[82px] flex items-center justify-between">
       <button className="text-[26px] font-bold">tagoplus</button>
       <div className="flex ml-[280px]">
-        <button className="m-[30px]">서비스 소개</button>
-        <button className="m-[30px]">퍼블리싱 의뢰</button>
-        <button className="m-[30px]">포트폴리오</button>
-        <button className="m-[30px]">고객센터</button>
-        <button className="m-[30px] flex">
+        <button className="m-[25px]">서비스 소개</button>
+        <button className="m-[25px]">퍼블리싱 의뢰</button>
+        <button className="m-[25px]">포트폴리오</button>
+        <button className="m-[25px]">고객센터</button>
+        <button className="m-[25px] flex gap-4">
           <img src="./icons/123.png" alt=" " />
-          마이페이지
+          <div>마이페이지</div>
         </button>
       </div>
       <div>

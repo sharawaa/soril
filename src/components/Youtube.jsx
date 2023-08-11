@@ -2,7 +2,7 @@ import YouTubeVideo from "./Vedio";
 
 export default function Youtube() {
   return (
-    <div className="flex justify-between items-center h-[420px] w-[1170px] ">
+    <div className="flex justify-between items-center h-[528px] w-[1170px] ">
       <div className="w-64">
         <div className="text-[32px]">유튜브 홍보용 영상</div>
         <div>
