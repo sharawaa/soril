@@ -2,9 +2,17 @@ export default function Statistics() {
   return (
     <div className="flex justify-center mt-[76px]">
       <div className=" w-[1170px] flex justify-between items-center ">
-        <div>
-          <div className="text-[32px]">진행중인 프로젝트</div>
+        {/* <div>
+          <div className=" text-[160px] text-gray-200 font-bold ">ing</div>
+          <div className="text-[32px] flex-none flex overflow-hidden">
+            진행중인 프로젝트
+          </div>
+        </div> */}
+        <div class="relative ">
+          <div class="absolute text-2xl mt-[120px]">진행중인 프로젝트</div>
+          <div class="ml-[110px] text-[160px] text-gray-200 font-bold">ing</div>
         </div>
+
         <div className="flex w-[710px] justify-between">
           <div className="flex flex-col items-center justify-center">
             <div className="h-[188px] w-[188px] flex flex-none round rounded-full ">
