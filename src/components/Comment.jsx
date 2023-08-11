@@ -13,7 +13,7 @@ export default function Comment() {
           </div>
           <div className="bg-white h-[200px] w-[230px] border border-red-200  rounded-2xl p-5 flex flex-col justify-around m-[5px]">
             <div className="flex items-center">
-              <img src="./image/zalu.png" alt="." />
+              <img src="./image/wm1.png" alt="." />
               <div>김*국</div>
             </div>
             <div>
@@ -24,7 +24,7 @@ export default function Comment() {
           </div>
           <div className="bg-white h-[200px] w-[230px] border border-red-200  rounded-2xl p-5 flex flex-col justify-around m-[5px]">
             <div className="flex items-center">
-              <img src="./image/zalu.png" alt="." />
+              <img src="./image/wm2.png" alt="." />
               <div>김*국</div>
             </div>
             <div>복잡한 코딩 한번에 해결했어요 너무 감사합니다. </div>

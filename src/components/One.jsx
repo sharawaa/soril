@@ -1,7 +1,7 @@
 export default function One() {
   return (
     <div className="flex justify-center">
-      <div className="w-[1170px] h-[410px] bg-red-300 flex justify-between rounded-2xl mt-[60px] p-[40px]">
+      <div className="w-[1170px] h-[410px] one flex justify-between rounded-2xl mt-[60px] p-[40px]">
         <div className="h-[280px] w-[350px] flex flex-col justify-around">
           <div className="text-[32px]">서비스 소개</div>
           <div>

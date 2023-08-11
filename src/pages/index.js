@@ -31,7 +31,7 @@ export default function Home() {
       <div>
         <Comment />
       </div>
-      <div className="flex flex-col items-center h-[177px] w-100">
+      <div className="flex flex-col items-center h-[177px] w-100 border-t-[1px] border-gray-500">
         <Footer />
       </div>
     </>
