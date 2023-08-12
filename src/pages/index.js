@@ -19,20 +19,22 @@ export default function Home() {
       <div className="h-[400px]">
         <Statistics />
       </div>
-      <div className=" mt-[60px]">
+      <div className="">
         <Three />
       </div>
       <div>
         <One />
       </div>
-      <div className="flex flex-col items-center bg-gray-200 mt-[60px]">
+      <div className="flex flex-col items-center bg-gray-200 mt-[80px]">
         <Youtube />
       </div>
       <div>
         <Comment />
       </div>
-      <div className="flex flex-col items-center h-[177px] w-100 border-t-[1px] border-gray-500">
-        <Footer />
+      <div className="flex justify-center">
+        <div className="flex flex-col items-center h-[177px] w-[98%] border-t-[1px] border-gray-500  mt-[95px]">
+          <Footer />
+        </div>
       </div>
     </>
   );

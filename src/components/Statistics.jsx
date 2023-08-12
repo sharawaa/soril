@@ -2,12 +2,6 @@ export default function Statistics() {
   return (
     <div className="flex justify-center mt-[76px]">
       <div className=" w-[1170px] flex justify-between items-center ">
-        {/* <div>
-          <div className=" text-[160px] text-gray-200 font-bold ">ing</div>
-          <div className="text-[32px] flex-none flex overflow-hidden">
-            진행중인 프로젝트
-          </div>
-        </div> */}
         <div class="relative ">
           <div class="absolute text-2xl mt-[120px]">진행중인 프로젝트</div>
           <div class="ml-[110px] text-[160px] text-gray-200 font-bold">ing</div>
@@ -29,7 +23,7 @@ export default function Statistics() {
             </button>
           </div>
           <div className="flex flex-col items-center justify-center">
-            <div className="h-[188px] w-[188px] flex flex-none round rounded-full ">
+            <div className="h-[188px] w-[188px] flex flex-none diagram2 rounded-full ">
               <div className="h-[94px] w-[94px] round2 rounded-tr-full flex flex-none  ml-[94px]"></div>
               <div className="h-[150px] w-[150px] bg-white rounded-full flex flex-none p-[60px]  -ml-[168px] mt-[20px] text-[20px] font-bold">
                 25%
@@ -41,7 +35,7 @@ export default function Statistics() {
             </button>
           </div>
           <div className="flex flex-col items-center justify-center">
-            <div className="h-[188px] w-[188px] flex flex-none round rounded-full ">
+            <div className="h-[188px] w-[188px] flex flex-none diagram3 rounded-full ">
               <div className="h-[94px] w-[94px] round2 rounded-tr-full flex flex-none  ml-[94px]"></div>
               <div className="h-[150px] w-[150px] bg-white rounded-full flex flex-none p-[60px]  -ml-[168px] mt-[20px] text-[20px] font-bold">
                 50%
