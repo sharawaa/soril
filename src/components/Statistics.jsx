@@ -24,9 +24,9 @@ export default function Statistics() {
           </div>
           <div className="flex flex-col items-center justify-center">
             <div className="h-[188px] w-[188px] flex flex-none diagram2 rounded-full ">
-              <div className="h-[94px] w-[94px] round2 rounded-tr-full flex flex-none  ml-[94px]"></div>
+              <div className="h-[188px] w-[94px] round2 rounded-r-full flex flex-none  ml-[94px]"></div>
               <div className="h-[150px] w-[150px] bg-white rounded-full flex flex-none p-[60px]  -ml-[168px] mt-[20px] text-[20px] font-bold">
-                25%
+                50%
               </div>
             </div>
             <div className="text-[18px] mt-[20px]">강남 맑은 치과</div>
@@ -38,7 +38,7 @@ export default function Statistics() {
             <div className="h-[188px] w-[188px] flex flex-none diagram3 rounded-full ">
               <div className="h-[94px] w-[94px] round2 rounded-tr-full flex flex-none  ml-[94px]"></div>
               <div className="h-[150px] w-[150px] bg-white rounded-full flex flex-none p-[60px]  -ml-[168px] mt-[20px] text-[20px] font-bold">
-                50%
+                25%
               </div>
             </div>
             <div className="text-[18px] mt-[20px]">현대지에프홀딩스</div>
